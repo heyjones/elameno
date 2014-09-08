@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  school_id: 1
+  prefix: MyString
+  first: MyString
+  last: MyString
+  suffix: MyString
+  email: MyString
+
+two:
+  school_id: 1
+  prefix: MyString
+  first: MyString
+  last: MyString
+  suffix: MyString
+  email: MyString

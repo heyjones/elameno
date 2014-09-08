@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  teacher_id: 1
+  grade: MyString
+  room: MyString
+  start: 2014-09-08
+  finish: 2014-09-08
+
+two:
+  teacher_id: 1
+  grade: MyString
+  room: MyString
+  start: 2014-09-08
+  finish: 2014-09-08
